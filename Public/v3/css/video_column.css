@@ -1,0 +1,134 @@
+/*
+	黄金学堂首页css样式
+*/
+/*轮播图*/
+.main_visual_wrap{height:574px;border-radius:8px;position: relative;overflow: hidden;margin-bottom:20px;}
+.main_visual{position: absolute;}
+.main_visual li{float: left;width:1020px;}
+.main_visual li a{display: block;}
+.main_visual li img{width:100%;height:100%;;}
+.child_visual{position: absolute;width:100%;height:110px;bottom:0;left:0;background:rgba(0,0,0,.4);background:rgb(0,0,0)\9;}
+.child_visual input,.child_visual ul{float:left;}
+.child_visual ul{height:80px;padding:0 20px;padding-top:16px;}
+.child_visual li{position:relative;float: left;border-radius:3px;margin-left:30px;cursor:pointer;}
+.child_visual li:first-child{
+  margin-left: 0;
+}
+.child_visual li img{display: block; width:140px; height:79px;}
+.child_visual ul .cur{border-color:#fff;}
+.child_visual input{width:80px;height:110px;cursor:pointer;}
+.v_btn_left{background:rgba(0,0,0,.5) url("../images/video_column/i_arrow_l1.png") no-repeat center center;filter: alpha(opacity=50)\9;background:url(../images/video_column/i_arrow_l1.fw.png) no-repeat center center\9;}
+.v_btn_right{background:rgba(0,0,0,.5) url("../images/video_column/i_arrow_r1.png") no-repeat center center;filter: alpha(opacity=50)\9;background:url(../images/video_column/i_arrow_r1.fw.png) no-repeat center center\9;}
+.v_btn_left:hover{background:rgba(0,0,0,.5) url("../images/video_column/i_arrow_l2.png") no-repeat center center;filter: alpha(opacity=50)\9;background:url(../images/video_column/i_arrow_l2.fw.png) no-repeat center center\9;}
+.v_btn_right:hover{background:rgba(0,0,0,.5) url("../images/video_column/i_arrow_r2.png") no-repeat center center;filter: alpha(opacity=50)\9;background:url(../images/video_column/i_arrow_r2.fw.png) no-repeat center center\9;}
+.child_visual li.cur .mask{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url("../images/video_column/icon_video_2.png") no-repeat;
+}
+.csn_school{
+  margin-top: 20px;
+}
+.title{
+  padding-top:8px;
+  padding-bottom: 11px;
+  border-bottom: 1px solid #2369bf;
+  margin-bottom: 30px;
+}
+.title h2{
+  padding-left:26px;
+  font-size: 20px;
+  color: #333;
+  background: url("../images/video_column/icon_school.png") no-repeat 0;
+}
+.title h2 a{
+  font-weight: bold;
+}
+.title span{
+  float: right;
+  font-size: 14px;
+  margin-top: 9px;
+}
+.title span a{
+  color: #999;
+}
+.item{
+  float: left;
+  width: 240px;
+  margin-left:20px;
+  margin-bottom: 35px;
+  position: relative;
+}
+.list{
+  margin-left: -20px;
+}
+.item .img{
+  width: 240px;
+  height: 135px;
+  border-radius: 8px;
+  overflow: hidden;
+  position: relative;
+}
+.item .img .mask{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url("../images/master/master_hjAcademy_video/icon_video_mask1.png") no-repeat 0;
+  display: none;
+}
+.item:hover .mask{
+  display: block;
+}
+.item .img img{
+  width: 100%;
+  transition:all .5s;
+  -moz-transition:all .5s; /* Firefox 4 */
+  -webkit-transition:all .5s; /* Safari and Chrome */
+  -o-transition:all .5s; /* Opera */
+}
+.item:hover .img img{
+  transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  -moz-transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  -o-transform: scale(1.2);
+}
+
+.item h2{
+  font-size: 14px;
+  color: #333;
+  font-weight: bold;
+  text-align: center;
+  margin: 14px 0;
+}
+.item>a{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 10;
+}
+.item div.clearfix{
+  font-size: 14px;
+  color: #808080;
+}
+.item div.clearfix div{
+  float: right;
+}
+.item .video_num{
+  padding-left: 20px;
+  background: url("../images/master/master_hjAcademy_video/icon_video1.png") no-repeat 0;
+  margin-right: 13px;
+}
+.csn_audition .title h2{
+  background: url("../images/video_column/icon_audition.png") no-repeat 0;
+}
+.csn_audition{
+  display: none;
+}

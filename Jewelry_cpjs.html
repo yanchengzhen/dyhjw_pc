@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="Public/v2/css/swiper.min.css">
+    <link rel="stylesheet" href="Public/v2/css/index.css">
+    <link rel="stylesheet" href="Public/v3/css/Jewelry_cpjs.css">
+</head>
+<body>
+<div class="container">
+    <!--背景图片-->
+    <img class="container_bg" src="Public/v3/images/Jewelry/cpjs_bg.png" alt="">
+    <!--背景遮罩效果-->
+    <div class="container_bg_mask"></div>
+    <!--顶部logo图片-->
+    <img class="container_top_logo" src="Public/v3/images/Jewelry/cpjs_logo.png" alt="">
+    <!--图片列表展示-->
+    <div class="pic_list clearfix">
+        <div class="pic_item fl">
+            <img src="Public/v3/images/Jewelry/1.png" alt="">
+            <div class="pic_item_text">“金犬旺福”黄金摆件</div>
+        </div>
+        <div class="pic_item fl pic_item_center">
+            <img src="Public/v3/images/Jewelry/2.png" alt="">
+            <div class="pic_item_text">“金犬旺福”黄金摆件</div>
+        </div>
+        <div class="pic_item fl">
+            <img src="Public/v3/images/Jewelry/3.png" alt="">
+            <div class="pic_item_text">“年年有余”黄金摆件</div>
+        </div>
+        <div class="pic_item fl pic_item_bottom">
+            <img src="Public/v3/images/Jewelry/4.png" alt="">
+            <div class="pic_item_text">“金犬贺寿”黄金摆件</div>
+        </div>
+        <div class="pic_item fl pic_item_center pic_item_bottom">
+            <img src="Public/v3/images/Jewelry/5.png" alt="">
+            <div class="pic_item_text">“锦绣前程”黄金摆件</div>
+        </div>
+        <div class="pic_item fl pic_item_bottom">
+            <img src="Public/v3/images/Jewelry/6.png" alt="">
+            <div class="pic_item_text">“金犬献瑞”黄金摆件</div>
+        </div>
+    </div>
+    <!--图片轮播展示-->
+    <div class="pic_swiper" id="pic_swiper">
+        <div class="swiper-container inxr_carousel">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <img class="pic_swiper_img" src="Public/v3/images/Jewelry/1.png">
+                    <div class="pic_swiper_text">“金犬旺福”黄金摆件</div>
+                </div>
+                <div class="swiper-slide">
+                    <img class="pic_swiper_img" src="Public/v3/images/Jewelry/2.png">
+                    <div class="pic_swiper_text">“金犬旺福”黄金摆件</div>
+                </div>
+                <div class="swiper-slide">
+                    <img class="pic_swiper_img" src="Public/v3/images/Jewelry/3.png">
+                    <div class="pic_swiper_text">“金犬旺福”黄金摆件</div>
+                </div>
+                <div class="swiper-slide">
+                    <img class="pic_swiper_img" src="Public/v3/images/Jewelry/4.png">
+                    <div class="pic_swiper_text">“金犬旺福”黄金摆件</div>
+                </div>
+                <div class="swiper-slide">
+                    <img class="pic_swiper_img" src="Public/v3/images/Jewelry/5.png">
+                    <div class="pic_swiper_text">“金犬旺福”黄金摆件</div>
+                </div>
+                <div class="swiper-slide">
+                    <img class="pic_swiper_img" src="Public/v3/images/Jewelry/6.png">
+                    <div class="pic_swiper_text">“金犬旺福”黄金摆件</div>
+                </div>
+            </div>
+            <!-- 如果需要导航按钮 -->
+            <div class="swiper-button-prev inxr_carousel_prev"></div>
+            <div class="swiper-button-next inxr_carousel_next"></div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="Public/v2/js/jquery-1.9.1.min.js"></script>
+<script src="Public/v2/js/swiper.min.js"></script>
+<script>
+    (function (doc, win) {
+        var docEl = doc.documentElement,
+            resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize',
+            recalc = function () {
+                var clientWidth = docEl.clientWidth;
+                if (!clientWidth) return;
+                docEl.style.fontSize = clientWidth * 0.05 + 'px';
+            };
+        if (!doc.addEventListener) return;
+        win.addEventListener(resizeEvt, recalc, false);
+        doc.addEventListener('DOMContentLoaded', recalc, false);
+    })(document, window);
+    new Swiper('.inxr_carousel', {
+        loop: true,
+        autoplay: false,
+        navigation: {
+            nextEl: '.inxr_carousel_next',
+            prevEl: '.inxr_carousel_prev'
+        }
+    });
+    /**
+     * 点击图片打开swiper
+     */
+    $(".pic_item").on("click",function(){
+        $(".pic_swiper").css("visibility","visible");
+        $(".pic_list").hide();
+    })
+    /**
+     * 点击轮播之外的区域 影藏轮播
+     */
+    $("body").bind("mousedown", function (event) {
+        if (event.target.id == "pic_swiper") {
+            $(".pic_swiper").css("visibility","hidden");
+            $(".pic_list").show();
+        }
+    });
+</script>
+</body>
+</html>

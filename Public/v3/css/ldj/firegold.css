@@ -1,0 +1,72 @@
+
+/*炒黄金*/
+/*.fire_nav {background-color: #27bebd!important;}*/
+/*.fire_nav .cur,.fire_nav a:hover {background-color: #1ca09f!important;}*/
+.fire_right {float: right;width: 470px;}
+.fire_fw {display: block;font-size: 16px;color:#4a4a4a;font-weight: bold;line-height: 32px;overflow: hidden;}
+.fire_fw span{display: block;float: left;}
+.fire_right h1 {display: block;float: left;font-size: 16px;color:#4a4a4a;font-weight: bold;line-height: 32px;}
+.fire_right p {display: block;font-size: 14px;color:#999;line-height: 24px;max-height: 96px;}
+.fire_right p a {color: #2577e3;}
+.fire_tag {margin-top:15px;overflow: hidden;float: left;}
+.fire_tag a{float:left;display: block;margin-right:5px;padding:0 10px;height:20px;font-size:12px;line-height:20px;color:#6492ee;background:#f1f4fc;}
+.fire_tag a:hover {color:#000;}
+.fire_nobk {padding:0!important;text-align: center;}
+.fire_mainul {display: block;margin-top:-30px;}
+.fire_mainul li {display: block;padding:30px 10px 30px 0;border-bottom:1px solid #eee;overflow: hidden;}
+.fire_mainul li a img {display: block;float: left;width:180px;height:113px;}
+.ul_right {width:462px;float:right;}
+.ul_right h2 {display: block;margin-bottom:20px;font-size:20px;font-weight: bold;color:#333;line-height: 20px;}
+.hq_people {margin-bottom:20px;height:14px;}
+.hq_people span {display:block;font-size: 14px; color:#999;line-height: 14px;}
+.hq_main_p {display: block;color:#666;font-size: 14px;line-height: 22px;}
+.fire_mainul li:hover a .ul_right h2 {color:#4377e1;}
+.fire_more {display: block;margin-top:30px;font-size: 12px;color:#999;height: 40px;text-align: center;border: 1px solid #ddd;line-height: 40px;}
+.inxr_list {overflow: hidden;margin-bottom:30px;}
+.fire_jys {display: block;float: left;margin-top:3px;margin-left:5px;height:20px;font-size: 18px;color:#666;padding-left:8px;border-left:1px solid #9e9e9e;line-height:20px;}
+/*黄金学堂*/
+.inxr_hjxt {background:url(../images/index/xuetang.png) no-repeat left center;}
+.fire_xhhq {background:url(../images/index/zhhq.png) no-repeat left center;}
+.hjxt_list {}
+.hjxt_list a {display: block;padding-left:26px;height:44px;font-size:14px;color:#666;line-height:44px;background:url(../images/index/bf.png) no-repeat left center;border-bottom:1px solid #e4e4e4;}
+.hjxt_list a:hover{color: #2865da;}
+.zx_ul {display: block;margin-top:-10px;}
+.zx_li {display: block;padding:15px 0;border-bottom:1px solid #eee;}
+.zx_li h3 {display: block;padding-left:16px;color:#222;font-size: 14px;line-height:14px;background: url(../images/icon.png) no-repeat left center;}
+.zx_li a:hover h3 {color:#F96252}
+.gselect_main {margin-top:12px;overflow: hidden;}
+.gselect_main span {display:block;float:left;margin-left:16px;font-size: 12px;color:#999;line-height:12px;}
+.gselect_li a:hover h3 {color:#2865da;}
+.bk_blue {background-color: #629bf2!important;}
+/*右侧实物黄金*/
+.fgold_ul {display: block;margin-top:15px;background:#f7f7f7;padding-top:5px;}
+.fgold_li {display: block;overflow: hidden;padding:10px 10px;margin:5px 10px;background:#fff;}
+.fgold_right {float: right;width: 170px;}
+.fgold_name {overflow: hidden;}
+.fgold_name p {display: block;float: left;font-size: 22px;color:#303030;line-height: 32px;}
+.fgold_name span {display: block;float: right;margin-top:6px;width:60px;height:18px;font-size: 12px;color: #b0b0b0;background: #f0f1f3;text-align: center;}
+.fgold_money {overflow: hidden;}
+.fgold_money span {display: block;font-size: 12px;color: #999;line-height: 25px;}
+.fgold_money .fl em {display:block;float:left;font-size: 26px;padding-right:5px;color:#f04343;}
+.fire_list {overflow: hidden;background:#f7f7f7;}
+.fire_list a {display: block;float: left;font-size: 14px;color:#666;width: 67px;text-align: center;line-height: 30px;background:#fff;margin:5px;}
+.fire_list a:hover {color: #2577e3;}
+
+/*切换*/
+.fgold_scroll {position: relative;width: 100%;height: 160px;margin-bottom:50px;}
+.fgscroll_prev {display: block;position: absolute;top:62px;left:0;width:20px;height:37px;background: url(../images/firegold/prev.png) no-repeat center center;z-index: 99;cursor: pointer;}
+.fgscroll_next {display: block;position: absolute;top:62px;right:0;width:20px;height:37px;background: url(../images/firegold/next.png) no-repeat center center;z-index: 99;cursor: pointer;}
+.fgscroll_main {overflow: hidden;padding:10px 0;width: 100%;height: 140px;position: relative;}
+.fgscroll_ul{display: block;position: absolute;width:auto;}
+.fgscroll_li {display: block;float: left;width: 180px;height: 140px;position: relative;margin-right:10px;}
+.fscroll_img {display: block;position: absolute;width: 180px;height: 140px;top:0;}
+.fgscroll_li span {display: block;position: absolute;top:50%;left:0;width: 120px;padding:0 30px;font-size:16px;line-height:22px;color:#fff;text-align: center;transform: translate(0,-50%);z-index: 9;}
+.fire_hover {width: 190px;height:150px;top:-5px;left:-5px;}
+.chj_bk {width: 180px;height: 140px;background: #000;filter:alpha(opacity=50);-moz-opacity:0.5; -khtml-opacity:0.5;opacity: 0.5;position: absolute;top:0;left: 0;}
+.jh_icon {background:url(../images/jh_zst.png) no-repeat left center;}
+
+.fire_table {display: block;border-collapse:collapse; }
+.fire_table tr th {border-top: 1px solid #dbebfd;border-left: 1px solid #dbebfd;background: #f3f9ff;font-size: 14px;color: #333;line-height: 40px;text-align: center;font-weight: bold;}
+.fire_table tr td{font-size:12px;color:#888;line-height:40px;text-align:center;border: 1px solid #dbebfd;border-collapse:collapse;}
+.fire_table tr td a{font-size:12px;color:#888;line-height:40px;text-align:center;}
+.fire_table tr td a:hover{color:#4a82d8;}

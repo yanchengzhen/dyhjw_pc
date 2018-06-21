@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8736761c-b0d2-416f-a485-6a0d3c59bfe7" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="dyhj.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dyhj.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="495" column="110" lean-forward="true" selection-start-line="495" selection-start-column="110" selection-end-line="495" selection-end-column="110" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#script#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#6;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>top_news_carousel</find>
+      <find>index_title_demo1</find>
+      <find>hq_change_box</find>
+      <find>selected</find>
+      <find>comment_content</find>
+      <find>jycl_box</find>
+      <find>open_word</find>
+      <find>video</find>
+      <find>right_fixed_wrap</find>
+      <find>fixed2</find>
+      <find>index_right_boxdm2</find>
+      <find>myvideo</find>
+      <find>金正恩变脸</find>
+      <find>window.</find>
+      <find>http://www.dyhjw.com/</find>
+      <find>&lt;script</find>
+      <find>images/</find>
+      <find>.png</find>
+      <find>time_show</find>
+      <find>index_tpp</find>
+      <find>&lt;span class=&quot;time&quot;&gt;</find>
+      <find>09:50</find>
+      <find>03:36</find>
+      <find>hq_title</find>
+      <find>top_news_img</find>
+      <find>珠宝资讯</find>
+      <find>上海黄金交易所公告</find>
+      <find>品牌评级</find>
+      <find>热门标签</find>
+      <find>jieshao</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>href=&quot;#&quot;</replace>
+      <replace>src=&quot;</replace>
+      <replace>href=&quot;</replace>
+      <replace>第一黄金网</replace>
+      <replace>Public/</replace>
+      <replace>Public/v3/images/kuaixun</replace>
+      <replace>hq_top</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\pcIndex\Public\v2\jindian</dir>
+      <dir>D:\pcIndex\Public\v2\JewelryBrand</dir>
+      <dir>D:\pcIndex\Public\v3\js\cjrl</dir>
+      <dir>D:\pcIndex\Public\v2\js</dir>
+      <dir>D:\pcIndex</dir>
+      <dir>D:\phpStudy\WWW\pcIndex\Public\v3\js\live</dir>
+      <dir>D:\phpStudy\WWW\pcIndex\Public\v1\js</dir>
+      <dir>D:\phpStudy\WWW\pcIndex\Public\v2\js</dir>
+      <dir>D:\phpStudy\WWW\pcIndex\Public\v3\js</dir>
+      <dir>D:\phpStudy\WWW\pcIndex</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Public/v3/css/gold_comexzx.css" />
+        <option value="$PROJECT_DIR$/gold_comexzx.html" />
+        <option value="$PROJECT_DIR$/gold_tdzx.html" />
+        <option value="$PROJECT_DIR$/gold_jbjt.html" />
+        <option value="$PROJECT_DIR$/Public/v3/css/gold_zx.css" />
+        <option value="$PROJECT_DIR$/gold_ldjzx.html" />
+        <option value="$PROJECT_DIR$/gold_tzjq.html" />
+        <option value="$PROJECT_DIR$/gold_zhjzx.html" />
+        <option value="$PROJECT_DIR$/Jewelry_cpjs.html" />
+        <option value="$PROJECT_DIR$/Public/v3/css/td_gold.css" />
+        <option value="$PROJECT_DIR$/Public/v3/js/ldj/index.js" />
+        <option value="$PROJECT_DIR$/gold_COMEX.html" />
+        <option value="$PROJECT_DIR$/gold_paper.html" />
+        <option value="$PROJECT_DIR$/gold_td.html" />
+        <option value="$PROJECT_DIR$/gold_loco.html" />
+        <option value="$PROJECT_DIR$/Public/v3/js/cjrl/highstock.js" />
+        <option value="$PROJECT_DIR$/Public/v3/js/cjrl/rljd.js" />
+        <option value="$PROJECT_DIR$/Public/v3/css/cjrl.css" />
+        <option value="$PROJECT_DIR$/dataCenter.html" />
+        <option value="$PROJECT_DIR$/Public/v3/js/layui.js" />
+        <option value="$PROJECT_DIR$/Public/v3/css/layui.css" />
+        <option value="$PROJECT_DIR$/Public/v3/static/layui.css" />
+        <option value="$PROJECT_DIR$/Public/v3/css/zhuanlan_ruzhu.css" />
+        <option value="$PROJECT_DIR$/Public/v3/js/zhuanlan_ruzhu/zhuanlan_ruzhu.js" />
+        <option value="$PROJECT_DIR$/zhuanlan_ruzhu.html" />
+        <option value="$PROJECT_DIR$/Public/v3/css/Jewelry_cpjs.css" />
+        <option value="$PROJECT_DIR$/Public/v2/css/reset.css" />
+        <option value="$PROJECT_DIR$/Public/v2/js/global_17.js" />
+        <option value="$PROJECT_DIR$/Public/v2/js/news/news_lists.js" />
+        <option value="$PROJECT_DIR$/Public/v3/js/master_mjjp.js" />
+        <option value="$PROJECT_DIR$/master_mjjp.html" />
+        <option value="$PROJECT_DIR$/master_mjcl.html" />
+        <option value="$PROJECT_DIR$/Public/v3/css/master_mjjp.css" />
+        <option value="$PROJECT_DIR$/Public/v2/js/index/index_new.js" />
+        <option value="$PROJECT_DIR$/Public/v2/css/index.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/dyhj.html" />
+        <option value="$PROJECT_DIR$/Public/v3/css/seven_eleven.html" />
+        <option value="$PROJECT_DIR$/Public/v3/js/main.js" />
+        <option value="$PROJECT_DIR$/Public/v3/js/seven_eleven/seven_eleven.js" />
+        <option value="$PROJECT_DIR$/Public/v3/js/jquery.cookie.js" />
+        <option value="$PROJECT_DIR$/Public/v3/js/live/Lang.js" />
+        <option value="$PROJECT_DIR$/Public/v3/js/live/base64.js" />
+        <option value="$PROJECT_DIR$/Public/v3/js/live/live.js" />
+        <option value="$PROJECT_DIR$/Public/v3/js/quotes/common_hq.js" />
+        <option value="$PROJECT_DIR$/seven_eleven.html" />
+        <option value="$PROJECT_DIR$/Public/v3/css/seven_eleven.css" />
+        <option value="$PROJECT_DIR$/Public/v2/goldchannel/css/index.css" />
+        <option value="$PROJECT_DIR$/gold.html" />
+        <option value="$PROJECT_DIR$/JewelryInformation.html" />
+        <option value="$PROJECT_DIR$/JewelryBrand.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pcIndex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pcIndex" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pcIndex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pcIndex" type="462c0819:PsiDirectoryNode" />
+              <item name="Public" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pcIndex\Public\v3\static" />
+      <recent name="D:\pcIndex\Public\v3\images\master" />
+      <recent name="D:\pcIndex\Public\v3\js" />
+      <recent name="D:\pcIndex" />
+      <recent name="D:\pcIndex\Public\v3" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\phpStudy\WWW\pcIndex\Public\v3\images\kuaixun" />
+      <recent name="D:\pcIndex\Public\v2\images\index" />
+      <recent name="D:\pcIndex\Public\v2\images\global" />
+      <recent name="D:\pcIndex\Public\v3\images\zhuanlan" />
+      <recent name="D:\pcIndex\Public\v3\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8736761c-b0d2-416f-a485-6a0d3c59bfe7" name="Default" comment="" />
+      <created>1526437173711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526437173711</updated>
+      <workItem from="1526437175220" duration="2166000" />
+      <workItem from="1526440260948" duration="29000" />
+      <workItem from="1526440324584" duration="13674000" />
+      <workItem from="1526462261095" duration="8000" />
+      <workItem from="1526518377351" duration="25333000" />
+      <workItem from="1526603221358" duration="25122000" />
+      <workItem from="1526862899043" duration="24838000" />
+      <workItem from="1527123581947" duration="22523000" />
+      <workItem from="1527208443706" duration="6712000" />
+      <workItem from="1527477986962" duration="1000" />
+      <workItem from="1527478312738" duration="24000" />
+      <workItem from="1527478961167" duration="705000" />
+      <workItem from="1527554956167" duration="22265000" />
+      <workItem from="1527640131246" duration="26044000" />
+      <workItem from="1527727927754" duration="9549000" />
+      <workItem from="1527750881313" duration="3397000" />
+      <workItem from="1528159740521" duration="23481000" />
+      <workItem from="1528246576161" duration="24917000" />
+      <workItem from="1528331642075" duration="17017000" />
+      <workItem from="1528418457041" duration="39000" />
+      <workItem from="1528440809533" duration="10692000" />
+      <workItem from="1528677859551" duration="893000" />
+      <workItem from="1528703657931" duration="601000" />
+      <workItem from="1528766212671" duration="13415000" />
+      <workItem from="1528788495693" duration="251000" />
+      <workItem from="1528873551353" duration="14000" />
+      <workItem from="1528875053677" duration="1456000" />
+      <workItem from="1528946112492" duration="13000" />
+      <workItem from="1528948374257" duration="95000" />
+      <workItem from="1528967691276" duration="15000" />
+      <workItem from="1529032085838" duration="260000" />
+      <workItem from="1529050611299" duration="33000" />
+      <workItem from="1529388188347" duration="6033000" />
+      <workItem from="1529394988820" duration="3169000" />
+      <workItem from="1529398354284" duration="341000" />
+      <workItem from="1529398743866" duration="3300000" />
+      <workItem from="1529402340663" duration="297000" />
+      <workItem from="1529455794326" duration="19368000" />
+      <workItem from="1529540215645" duration="1417000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="312234000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12434141" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50105375" side_tool="true" weight="0.22524484" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49894625" weight="0.14363438" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297062" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1369863" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49894625" visible="true" weight="0.14363438" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50105375" side_tool="true" weight="0.22524484" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297062" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Public/v3/css/Jewelry_cpjs.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3375">
+          <caret line="125" column="19" selection-start-line="125" selection-start-column="19" selection-end-line="125" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jewelry_cpjs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v3/css/Jewelry_cpjs.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3375">
+          <caret line="125" column="19" lean-forward="true" selection-start-line="125" selection-start-column="19" selection-end-line="125" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhuanlan_ruzhu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2268">
+          <caret line="549" column="70" lean-forward="true" selection-start-line="549" selection-start-column="70" selection-end-line="549" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v3/js/zhuanlan_ruzhu/zhuanlan_ruzhu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v2/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4428">
+          <caret line="164" column="24" lean-forward="true" selection-start-line="164" selection-start-column="24" selection-end-line="164" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataCenter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1053">
+          <caret line="452" column="16" lean-forward="true" selection-start-line="452" selection-start-column="16" selection-end-line="452" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataCenter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="458" column="24" lean-forward="true" selection-start-line="458" selection-start-column="24" selection-end-line="458" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataCenter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12312">
+          <caret line="456" column="41" selection-start-line="456" selection-start-column="41" selection-end-line="456" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v2/js/laypage/laypage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="114" column="66" selection-start-line="114" selection-start-column="66" selection-end-line="114" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v3/static/layui.css" />
+    <entry file="file://$PROJECT_DIR$/Public/v3/static/layui.js" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="4743" column="4" selection-start-line="4743" selection-start-column="4" selection-end-line="4743" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v3/css/zhuanlan_ruzhu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="51" column="29" lean-forward="true" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gold_zhjzx.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1049" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jewelry_cpjs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v3/css/Jewelry_cpjs.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="125" column="19" selection-start-line="125" selection-start-column="19" selection-end-line="125" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v3/js/zhuanlan_ruzhu/zhuanlan_ruzhu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataCenter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40473">
+          <caret line="1499" column="11" lean-forward="true" selection-start-line="1499" selection-start-column="11" selection-end-line="1499" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhuanlan_ruzhu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="691" selection-start-line="691" selection-end-line="691" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v2/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2430">
+          <caret line="90" column="12" selection-start-line="90" selection-start-column="12" selection-end-line="90" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/media.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v2/js/global_17.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7641">
+          <caret line="283" column="52" lean-forward="true" selection-start-line="283" selection-start-column="52" selection-end-line="283" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v2/js/news/news_lists.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v3/js/master_mjcl.js" />
+    <entry file="file://$PROJECT_DIR$/master_mjcl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="448" lean-forward="true" selection-start-line="448" selection-end-line="448" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v3/js/master_mjjp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v3/css/master_mjjp.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6777">
+          <caret line="251" selection-start-line="251" selection-end-line="328" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v2/js/index/index_new.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-159">
+          <caret line="208" column="6" selection-start-line="208" selection-start-column="6" selection-end-line="208" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v2/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="756" column="37" selection-start-line="756" selection-start-column="37" selection-end-line="756" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/master_mjjp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="939" column="11" selection-start-line="939" selection-start-column="11" selection-end-line="996" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="883" column="115" lean-forward="true" selection-start-line="883" selection-start-column="115" selection-end-line="883" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v3/css/seven_eleven.html" />
+    <entry file="file://$PROJECT_DIR$/Public/v2/js/json2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-35" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v3/js/live/Lang.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v3/js/live/base64.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="815">
+          <caret line="112" column="16" selection-start-line="112" selection-start-column="16" selection-end-line="112" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v3/js/jquery.cookie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="815">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v3/js/live/live.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25569">
+          <caret line="947" column="2" selection-start-line="947" selection-start-column="2" selection-end-line="947" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v3/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v3/js/seven_eleven/seven_eleven.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v3/js/ws.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="141" column="20" selection-start-line="141" selection-start-column="20" selection-end-line="141" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/layer/layer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/js/live/cjrlws.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="79" column="50" selection-start-line="79" selection-start-column="29" selection-end-line="79" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v3/js/quotes/common_hq.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v3/css/seven_eleven.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="39" column="71" lean-forward="true" selection-start-line="39" selection-start-column="71" selection-end-line="39" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seven_eleven.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="507" column="32" lean-forward="true" selection-start-line="507" selection-start-column="32" selection-end-line="507" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/v2/goldchannel/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="95" column="47" lean-forward="true" selection-start-line="95" selection-start-column="47" selection-end-line="95" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gold.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="1571" column="48" selection-start-line="1571" selection-start-column="48" selection-end-line="1571" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JewelryInformation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="1913" column="31" lean-forward="true" selection-start-line="1913" selection-start-column="31" selection-end-line="1913" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JewelryBrand.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="2024" column="14" lean-forward="true" selection-start-line="2024" selection-start-column="14" selection-end-line="2024" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dyhj.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="495" column="110" lean-forward="true" selection-start-line="495" selection-start-column="110" selection-end-line="495" selection-end-column="110" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

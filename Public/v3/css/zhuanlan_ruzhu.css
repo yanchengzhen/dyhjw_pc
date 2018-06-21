@@ -1,0 +1,165 @@
+.main .lt{
+    width: 255px;
+}
+.main .rt{
+    width: 765px;
+}
+
+.left_select_tab{
+    height: 235px;
+    width: 180px;
+    border: 1px solid #cccccc;
+}
+.left_select_tab_item{
+    height: 58px;
+    line-height: 58px;
+    border-bottom: 1px solid #cccccc;
+    text-align: center;
+    font-size: 16px;
+    color: #333;
+    cursor: pointer;
+}
+.left_select_tab .cur{
+    background:#2f93e2 url("../images/cjrl/icon_news_bg.png") no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+/*右侧主体部分*/
+.select_content{
+    display: none;
+}
+/***********************申请专栏*******************************/
+.select_content_item{
+    height: 35px;
+    line-height: 35px;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+.select_content_item>span{
+    width: 90px;
+    height: 30px;
+}
+.select_content_item input{
+    height: 35px;
+    outline: none;
+    width: 180px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding-left: 10px;
+}
+.select_content_item input:focus {
+    border:1px solid #2288e0;
+    box-shadow: 0 0 10px #bfbfbf;
+}
+/*上传图片*/
+.select_content_item .content_btn input[type=file]{
+    position: absolute;
+    left: 0;
+    width: 80px;
+    height: 30px;
+    border: 0;
+    opacity: 0;
+    cursor: pointer;
+}
+.img_box{
+    height: 70px;
+    line-height: 70px;
+}
+.select_content_item textarea{
+    width: 440px;
+    height: 150px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.select_content_item textarea:focus {
+    border:1px solid #2288e0;
+    box-shadow: 0 0 10px #bfbfbf;
+}
+/*用户头像*/
+.personal_pic{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+/*公司头像*/
+.company_pic{
+    width: 70px;
+    height: 70px;
+    border-radius: 5px;
+}
+.company>span{
+    line-height: 18px;
+    height: 30px;
+}
+
+/*按钮样式*/
+.content_btn{
+    width: 80px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    display: inline;
+    margin: 20px 0 0 53px;
+    background-color: #e6e6e6;
+    font-size: 14px;
+    color: #333;
+    border-radius: 5px;
+    cursor: pointer;
+    position: relative;
+}
+.select_content_item .cur{
+    background:#2f93e2 url("../images/cjrl/icon_news_bg.png") no-repeat;
+    color: #fff;
+}
+.content_btn:hover{
+    background:#2f93e2 url("../images/cjrl/icon_news_bg.png") no-repeat;
+    color: #fff;
+}
+
+/*认证类型*/
+.type_btn{
+    width: 65px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    display: inline;
+    margin: 3px 20px 0 20px;
+    background-color: #e6e6e6;
+    font-size: 14px;
+    color: #333;
+    border-radius: 5px;
+    cursor: pointer;
+    position: relative;
+}
+
+/*公司名称*/
+.company_name{
+    height:150px;
+}
+/*提交按钮*/
+.register .content_btn{
+    width: 110px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 16px;
+    margin: 0;
+}
+/***********************声明条款*******************************/
+.edit{
+    overflow: hidden;
+}
+.edit p {
+    font-size: 16px;
+    color: #222;
+    line-height: 30px;
+    margin-bottom: 15px;
+}
+/***********************联系我们*******************************/
+.contact p {
+    font-size: 16px;
+    color: #222;
+    line-height: 28px;
+}

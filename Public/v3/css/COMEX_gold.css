@@ -1,0 +1,36 @@
+.inxr_title{
+  border-top: 0;
+}
+
+/*COMEX黄金行情报价*/
+
+.fhq_title {float:left;display: block;padding-left:30px;height:23px;line-height:23px;font-weight:bold;font-size:18px;color:#4a4a4a;background:url(../images/index/future_i.png) no-repeat left center;}
+.gchart {width:100%;overflow: hidden;margin-bottom:38px; }
+.gchart_title {width:100%;overflow: hidden;margin-bottom:20px;}
+.gchart_bk {float:left;display: block;padding-left:30px;height:23px;line-height:23px;font-weight:bold;font-size:18px;color:#4a4a4a;background:url(../images/index/zhjzs.png) no-repeat left center;}
+.gchart_title h1,.gchart_title h2 {font-weight: bold}
+.gchart_table {display: block;border-collapse:collapse; }
+.gchart_table tr th {border-top: 1px solid #dbebfd;border-left: 1px solid #fff;background: #eef6ff;font-size: 14px;color: #333;line-height: 40px;text-align: center;}
+.gchart_table tr th:first-child{border-left: 1px solid #dbebfd;}
+.gchart_table tr td{font-size:12px;line-height:40px;text-align:center;border: 1px solid #dbebfd;border-collapse:collapse;}
+.gchart_table tr td a{padding-left:15px;font-size:12px;color:#888;line-height:40px;text-align:center;}
+.gchart_table tr td a:hover{color:#4a82d8;}
+.table_downa {background: url(../images/fdown.png) no-repeat left center;}
+.table_upa{background: url(../images/fup.png) no-repeat left center;}
+.gchart_bk1 {float:left;display: block;padding-left:30px;height:23px;line-height:23px;font-weight:bold;font-size:18px;color:#4a4a4a;background:url("../images/ldj/index/icon_left_yellow.png") no-repeat left center;}
+.gchart_show {border:1px solid #eee;}
+.tr_gchart {display: none;}
+.llg_gchart {width:100%;height:290px;}
+.red {color:#f04343!important;}
+.green {color:#57c963!important;}
+
+/*COMEX黄金价格走势图*/
+.inxr_list {overflow: hidden;margin-bottom:30px;}
+.inxr_title {position:relative;border-top:1px solid #2a6ff4;overflow: hidden;}
+.inxr_title .inxr_futures {display: block;float:left;padding-left:28px;height:45px;line-height:45px;font-weight:bold;font-size: 16px;color:#4a4a4a;}
+.inxr_futures {background:url(../images/index/zhjzs1.png) no-repeat left center;}
+.inxr_title .fr{display: block;float: right;font-size: 13px;color: #c2c2c2;height:45px;line-height:45px;}
+/*.inxr_hqzs {background:url(../images/index/hqzs.png) no-repeat left center;}*/
+.bk_gray{background:#f7f7f7;}
+.fright_pic,.fright_pic1 {width: 284px;height: 150px;margin: 0 auto;padding:10px 0;}
+.fright_pic img,.fright_pic1 img{display: block;width: 284px;height: 150px;}

@@ -1,0 +1,141 @@
+<html>
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+    <title>现货黄金分时图</title>
+    <script type="text/javascript" src="Public/v2/js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="Public/v2/js/highcharts/highcharts.js"></script>
+    <script type="text/javascript" src="Public/v2/js/highcharts/exporting.js"></script>
+    <script type="text/javascript" src="Public/v2/js/highcharts/highcharts-zh_CN.js"></script>
+</head>
+<body>
+<div id="container" style="width:294px;height:205px;" data-highcharts-chart="0"></div>
+<script type="text/javascript">
+    var data = [[1526532300, 1292.2500], [1526532360, 1292.3199], [1526532420, 1292.3600], [1526532480, 1292.2500], [1526532540, 1292.1600], [1526532600, 1292.1600], [1526532660, 1292.1700], [1526532720, 1292.2700], [1526532780, 1292.1700], [1526532840, 1292.2100], [1526532900, 1292.1899], [1526532960, 1292.2000], [1526533020, 1292.0800], [1526533080, 1291.9700], [1526533140, 1291.9700], [1526533200, 1291.7600], [1526533260, 1291.7800], [1526533320, 1291.5800], [1526533380, 1291.7700], [1526533440, 1291.8600], [1526533500, 1291.8900], [1526533560, 1291.7800], [1526533620, 1291.9900], [1526533680, 1292.0500], [1526533740, 1292.0500], [1526533800, 1291.8800], [1526533860, 1292.0400], [1526533920, 1292.1500], [1526533980, 1292.1700], [1526534040, 1292.0699], [1526534100, 1291.8600], [1526534160, 1292.0601], [1526534220, 1291.9600], [1526534280, 1291.9500], [1526534340, 1291.8700], [1526534400, 1291.8600], [1526534460, 1291.7700], [1526534520, 1291.6700], [1526534580, 1291.7700], [1526534640, 1291.5900], [1526534700, 1291.6600], [1526534760, 1291.5699], [1526534820, 1291.4800], [1526534880, 1291.1600], [1526534940, 1291.2800], [1526535000, 1291.3700], [1526535060, 1291.5601], [1526535120, 1291.5000], [1526535180, 1291.5800], [1526535240, 1291.6801], [1526535300, 1291.8600], [1526535360, 1291.8900], [1526535420, 1292.0800], [1526535480, 1292.1899], [1526535540, 1292.1801], [1526535600, 1291.9800], [1526535660, 1291.9900], [1526535720, 1291.8900], [1526535780, 1292.0000], [1526535840, 1291.9000], [1526535900, 1291.8199], [1526535960, 1291.9000], [1526536020, 1292.0200], [1526536080, 1292.1899], [1526536140, 1292.2000], [1526536200, 1292.2000], [1526536260, 1292.4900], [1526536320, 1292.7000], [1526536380, 1293.0900], [1526536440, 1292.9900], [1526536500, 1292.6801], [1526536560, 1292.7000], [1526536620, 1293.0800], [1526536680, 1292.8900], [1526536740, 1293.0699], [1526536800, 1293.1000], [1526536860, 1293.0699], [1526536920, 1292.5699], [1526536980, 1292.5800], [1526537040, 1292.4800], [1526537100, 1292.4700], [1526537160, 1292.1801], [1526537220, 1292.2900], [1526537280, 1291.4900], [1526537340, 1291.2100], [1526537400, 1290.9900], [1526537460, 1291.0100], [1526537520, 1290.5800], [1526537580, 1290.5300], [1526537640, 1290.7300], [1526537700, 1290.7000], [1526537760, 1290.6500], [1526537820, 1290.6100], [1526537880, 1290.3900], [1526537940, 1290.1100], [1526538000, 1290.3199], [1526538060, 1290.2700], [1526538120, 1289.2300], [1526538180, 1289.5800], [1526538240, 1289.8600]];
+
+    $(function () {
+        var xArry = [];
+        var yArry = [];
+        $(data).each(function (k, v) {
+            var newDate = new Date();
+            newDate.setTime(v[0] * 1000);
+            //var y =  newDate.getUTCFullYear();
+            //var m = newDate.getUTCMonth() ;
+            //var d = newDate.getUTCDate();
+            //var h= newDate.getUTCHours();
+            //var M = newDate.getUTCMinutes();
+            //var s = newDate.getUTCSeconds();
+            //v[0] = Date.UTC(y,m,d,h,M,s);
+            v[0] = newDate.pattern('HH:mm');
+            xArry.push(v[0]);
+            yArry.push(v[1]);
+        });
+        Highcharts.setOptions({
+            lang: {
+                thousandsSep: ''
+            }
+        });
+        $('#container').highcharts({
+            chart: {
+                zoomType: 'x'
+            },
+            exporting: {
+                enabled: false
+            },
+            title: {
+                text: '现货黄金分时图'
+                //text:false
+            },
+            subtitle: {
+                //text: document.ontouchstart === undefined ?
+                //'鼠标拖动可以进行缩放' : '手势操作进行缩放'
+                text: false
+            },
+            tooltip: {
+                valueDecimals: '2'
+            },
+            xAxis: {
+                categories: xArry,
+                tickInterval: 20
+            },
+            yAxis: {
+                title: false,
+                crosshair: true
+            },
+            credits: {
+                enabled: false
+            },
+            legend: {
+                enabled: false
+            },
+            plotOptions: {
+                area: {
+                    fillColor: {
+                        linearGradient: {
+                            x1: 0,
+                            y1: 0,
+                            x2: 0,
+                            y2: 1
+                        },
+                        stops: [
+                            [0, Highcharts.getOptions().colors[0]],
+                            [1, Highcharts.Color(Highcharts.getOptions().colors[0]).setOpacity(0).get('rgba')]
+                        ]
+                    },
+                    marker: {
+                        radius: 2
+                    },
+                    lineWidth: 1,
+                    states: {
+                        hover: {
+                            lineWidth: 1
+                        }
+                    },
+                    threshold: null
+                }
+            },
+            series: [{
+                type: 'area',
+                name: '现货黄金',
+                data: yArry
+            }]
+        });
+    });
+    Date.prototype.pattern = function (fmt) {
+        var o = {
+            "M+": this.getMonth() + 1, //月份
+            "d+": this.getDate(), //日
+            "h+": this.getHours() % 12 == 0 ? 12 : this.getHours() % 12, //小时
+            "H+": this.getHours(), //小时
+            "m+": this.getMinutes(), //分
+            "s+": this.getSeconds(), //秒
+            "q+": Math.floor((this.getMonth() + 3) / 3), //季度
+            "S": this.getMilliseconds() //毫秒
+        };
+        var week = {
+            "0": "/u65e5",
+            "1": "/u4e00",
+            "2": "/u4e8c",
+            "3": "/u4e09",
+            "4": "/u56db",
+            "5": "/u4e94",
+            "6": "/u516d"
+        };
+        if (/(y+)/.test(fmt)) {
+            fmt = fmt.replace(RegExp.$1, (this.getFullYear() + "").substr(4 - RegExp.$1.length));
+        }
+        if (/(E+)/.test(fmt)) {
+            fmt = fmt.replace(RegExp.$1, ((RegExp.$1.length > 1) ? (RegExp.$1.length > 2 ? "/u661f/u671f" : "/u5468") : "") + week[this.getDay() + ""]);
+        }
+        for (var k in o) {
+            if (new RegExp("(" + k + ")").test(fmt)) {
+                fmt = fmt.replace(RegExp.$1, (RegExp.$1.length == 1) ? (o[k]) : (("00" + o[k]).substr(("" + o[k]).length)));
+            }
+        }
+        return fmt;
+    }
+
+</script>
+
+
+</body>
+</html>

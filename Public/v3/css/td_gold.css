@@ -1,0 +1,67 @@
+
+/*价格行情走势图*/
+.gchart {width:100%;/*overflow: hidden;*/margin-bottom:38px;border-top:1px solid #eee;}
+.gchart_title {width:100%;overflow: hidden;margin-bottom:20px;}
+.gchart_title h1,.gchart_title h2 {font-weight: bold}
+.hjzx_list_title {float:left;display: block;border-top:1px solid #4a83f1;padding-left:12px;}
+.gchart_table {display: block;border-collapse:collapse;border:1px solid #eee;}
+.gchart_table tr th {/* border-top: 1px solid #dbebfd;border-left: 1px solid #fff;background: #e4ecf2; */font-size: 14px;color: #666;line-height: 40px;text-align: center;}
+.gchart_table tr th:first-child{/* border-left: 1px solid #dbebfd; */}
+.gchart_table tr td{font-size:14px;color:#333;line-height:40px;text-align:center;/* border: 1px solid #dbebfd; */border-collapse:collapse;}
+.gchart_table tr td a{padding-left:15px;font-size:14px;color:#333;line-height:40px;text-align:center;}
+.gchart_table tr td a:hover{color:#4a82d8;}
+/*.table_downa {background: url(../images/llg_down.png) no-repeat left center;}*/
+.table_upa{background: url(../images/llg_table1.png) no-repeat left center;}
+.gchart_bk1 {float:left;display: block;padding-left:30px;height:23px;line-height:23px;font-weight:bold;font-size:18px;color:#4a4a4a;background:url("../images/ldj/index/icon_left_yellow.png") no-repeat left 21px;border-top:1px solid #4a83f1;padding-top:15px;}
+.gchart_bk3 {display: block;padding-left:30px;height:23px;line-height:23px;font-weight:bold;font-size:18px;color:#4a4a4a;background:url(../images/index/zhjzs2.png) no-repeat left 18px;padding-top:15px;}
+.gchart_bk2{float:right;padding-top:16px;}
+.gchart_bk2 a{color:#999;font-size:14px;}
+.gchart_show {border:1px solid #eee;}
+.tr_gchart {display: none;}
+.llg_gchart {width:580px;height:400px;float: left;}
+.red {color:#f04343!important;}
+.green {color:#07a168!important;}
+.ntd_tnav {display:block;margin-left:8px;margin-top:15px;width: 86px;float: left;border:1px solid #e5e5e5;}
+.ntd_tnav li {display: block;height: 38px;border-top:1px solid #e5e5e5;}
+.ntd_tnav li span {display: block;height: 38px;text-align: center;font-size: 14px;line-height:38px;color: #333;cursor: pointer;}
+.ntd_tnav li:first-child{border-top:none;}
+.ntd_tnav li.cur,.ntd_tnav li:hover{background: #f2f2f2;}
+/*黄金T+D交易*/
+.ntdlist{overflow: hidden;width: 100%;margin-bottom: 30px;}
+.ntdlist_title {display: block;margin-bottom:8px;height: 24px;padding-left: 0;}
+.ntdlist_title h3{display: block;padding-left: 32px;font-size: 16px;font-weight: bold;color: #4a4a4a;line-height: 24px;}
+.ntd_jy {border: 2px solid #eee;border-radius: 5px;}
+.tdjy_bk {background: url("../images/icon_deal.png") no-repeat 0;}
+.ntdjy_ul {display: block;overflow: hidden;}
+.ntdjy_ul li {display: block;float: left;padding-top:15px;width: 100px;height: 100px;}
+.ntdjy_ul li a img {display: block;margin: 0 auto;width: 52px;height: 52px;}
+.ntdjy_ul li a span{display: block;font-size: 14px;color: #333;margin-top: 14px;line-height: 14px;text-align: center;}
+.ntdlist_title h3:hover{color:#4773ff;}
+/*金交所实时行情和新闻公告切换*/
+.ntd_qh {margin-bottom: 20px;overflow: hidden;}
+.ntd_qh_title{border: 0;overflow: hidden;}
+.ntd_qh_title a {display: block;float: left;height: 44px;width: 153px;border-top: 1px solid #3c9df0;font-size: 16px;font-weight: bold;color: #30231b;line-height: 44px;background: #fff;text-align: center;}
+.ntd_qh_title a:first-child{border-left: none;}
+.ntd_qh_title a.cur{border:1px solid #eee;color: #fff;background:url("../images/icon_news_bg.png") no-repeat;background-size:cover}
+.ntd_qh_main {}
+.ntd_qh_main ul{display: none;padding-top:10px;}
+.ntd_qh_main ul:first-child{display: block;}
+.ntd_qh_main ul li{display: block;padding-left: 4px;overflow: hidden;}
+.ntd_qh_main ul li p{display: block;float: left;padding-left:12px;font-size: 14px;color: #333;line-height: 32px;height: 32px;width: 239px;overflow: hidden;background: url("../images/tdlist.png") no-repeat left center;}
+.ntd_qh_main ul li span{display: block;float: right;font-size: 12px;color: #999;line-height: 32px;}
+.inxr_list {
+  margin-bottom: 20px;
+}
+.ntdlist_title {
+  display: block;
+  height:45px;
+  line-height: 45px;
+  border-top: 1px solid #2f52a5;
+}
+.ntdlist_title h3 {
+  display: block;
+  padding-left: 32px;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 45px;
+}

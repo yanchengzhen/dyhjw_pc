@@ -1,0 +1,132 @@
+.title{
+  padding-top:8px;
+}
+.title h2{
+  padding-left:26px;
+  font-size: 20px;
+  color: #333;
+  background: url("../images/master/master_hot_organ/icon_hotTopic_yellow.png") no-repeat 0;
+}
+.title h2 a{
+  font-weight: bold;
+}
+.list{
+  margin-top: 42px;
+  margin-left: -14px;
+}
+.list .item{
+  float: left;
+  width: 218px;
+  height: 278px;
+  border: 1px solid #ccc;
+  text-align: center;
+  margin-bottom:35px ;
+  margin-left: 33px;
+  transition: all .5s;
+  -webkit-transition: all .5s;
+  -moz-transition: all .5s;
+  -o-transition:all .5s;
+  position: relative;
+}
+.item>img{
+  width: 96px;
+  height: 96px;
+  border:2px solid #ccc;
+  border-radius: 50%;
+  margin: 0 auto;
+  margin-top: 23px;
+}
+.item>h3{
+  font-size: 18px;
+  color: #333;
+  margin-top: 20px;
+  margin-bottom: 18px;
+  transition: all .5s;
+  -webkit-transition: all .5s;
+  -moz-transition: all .5s;
+  -o-transition:all .5s;
+}
+.item ul>li{
+  float: left;
+  width: 67px;
+  padding-left: 5px;
+  font-size: 12px;
+  color: #8c8c8c;
+  transition: all .5s;
+  -webkit-transition: all .5s;
+  -moz-transition: all .5s;
+  -o-transition:all .5s;
+}
+.item ul>li span{
+  float: right;
+  height:15px ;
+  margin-left: 5px;
+  color: #666;
+  margin-top: -1px;
+  transition: all .5s;
+  -webkit-transition: all .5s;
+  -moz-transition: all .5s;
+  -o-transition:all .5s;
+}
+.item>p{
+  width: 174px;
+  font-size: 14px;
+  margin: 0 auto;
+  margin-top: 25px;
+  color: #333333;
+  text-align: left;
+  transition: all .5s;
+  -webkit-transition: all .5s;
+  -moz-transition: all .5s;
+  -o-transition:all .5s;
+}
+.item>a{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.ranking_icon{
+  position: absolute;
+  top: 0;
+  left: 14px;
+}
+.Late{
+  left: 23px;
+}
+.item:hover{
+  background-color: #4285f4;
+  border-color: transparent;
+}
+.item:hover>img{
+  border-color: #fff;
+}
+.item:hover h3{
+  color: #fff;
+}
+.item:hover ul li{
+   color: #fff;
+}
+.item:hover ul li span{
+  color: #fff;
+}
+.item:hover p{
+  color: #fff;
+}
+.jg_fans .title h2{
+  background: url("../images/master/master_hot_organ/icon_ranking.png") no-repeat 0;
+}
+.jg_essay .title h2{
+  background: url("../images/master/master_hot_organ/icon_ranking.png") no-repeat 0;
+}
+.jg_view .title h2{
+  background: url("../images/master/master_hot_organ/icon_ranking.png") no-repeat 0;
+}
+.hot_jg .search{
+  top: -34px;
+  right: -44px;
+}
+.hot_jg .search_res_item{
+  text-align: center;
+}

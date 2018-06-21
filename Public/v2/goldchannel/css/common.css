@@ -1,0 +1,77 @@
+@charset "utf-8";
+body,ul,li,p,h1,h2,h3,h4 { margin:0;padding:0;font-family:"Microsoft YaHei";}
+html{color:#000;background:#FFF;}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,
+fieldset,input,textarea,p,blockquote,th,td {margin:0;padding:0;}
+table { border-collapse:collapse;border-spacing:0; }
+fieldset,img { border:0; }
+img{display:block;}
+address,caption,cite,code,dfn,em,strong,th,var { font-style:normal;font-weight:normal; }
+ol,ul { list-style:none; }
+caption,th { text-align:left; }
+h1,h2,h3,h4,h5,h6 {  font-size:100%;font-weight:normal; }
+q:before,q:after { content:''; }
+abbr,acronym { border:0; }
+*{text-decoration:none}
+/*a { text-underline:none; }*/
+a:hover { text-decoration:none;color:#2577e3;}
+img,input,button{ border:none; }
+ul,li {list-style:none}
+input{ outline:none; }
+.fl { float:left; }
+.fr { float:right; }
+.relative { position:relative; }
+.absolute { position:absolute; }
+.fixed { position:fixed; }
+.clear { clear:both; }
+.none{display:none;}
+
+a{color:#333; text-decoration:none;}
+*:focus{outline:none;}
+html,body{font-size:14px; background-color:#FFF; color:#404040;}
+li{list-style:none;}
+.fl{float:left;}
+.fr{float:right;}
+.left{text-align:left;}
+.right{text-align:right;}
+body{overflow-x:hidden;}
+.hidden,.hide{display: none}
+.red {color:#ed3b5f;}
+.green {color:#07a168;}
+
+.w1020{width:1020px; margin:0 auto;}
+.bd_nt{border:solid #eee; border-width:0 1px 1px;}
+.mbx{border-color:#e5e5e5;}
+.subnav{background-color:#f6f8ff;}
+.subnav_box,.subnav_box ul{overflow:hidden;}
+.subnav_box ul li{float:left; position:relative;}
+.subnav_box ul li:first-child i{background-color:transparent;}
+.subnav_box ul li i{position:absolute; left:0; top:27%; width:1px; height:46%; background-color:#c1c1c1;}
+.subnav_box ul li a{display:block; padding:0 15px; line-height:32px; color:#666;}
+.subnav_box ul li a:hover{color:#628FE3;}
+
+/*logo*/
+.logo_jd_box{width: 1020px;margin: 0 auto;padding: 8px 0;overflow: hidden;}
+.logo_jd_lt{float:left;width: 272px;height: 39px;margin-top: 18px;background: url(../images/logo_jd_bgline.png) no-repeat 156px center;}
+.logo_jd_lt img.f{float: left;width: 146px;}
+.logo_jd_lt img.s{float: right;margin-top: 6px;}
+
+/*通用位置导航。*/
+.hq_title {margin-bottom:20px;padding-bottom:10px;height:14px;border-bottom:1px solid #f3f3f3;}
+.hq_title a {display: block;float: left;height:14px;line-height:14px;font-size: 14px;color:#999;}
+/*分页*/
+.page_list{float:right;margin-top:28px;overflow:hidden;transform: translate(-100%,0);}
+.page_list>div{overflow: hidden;border:solid 1px #ddd;border-radius:4px;}
+.page_list a,.page_list span,.page_list i{float:left;font-size:12px;border-left:solid 1px #ddd;padding:6px 12px}
+.page_list a:first-child,.page_list span:first-child{border-left:0;}
+.page_list .laypage_curr,.page_list .current{background-color:#5685e0;color:#fff;}
+
+/*内页通用底部*/
+.foot{width:100%; background-color:#262F38; color:#AAA; text-align:center; padding:40px 0;position: relative;z-index: 99;}
+.foot a{color:#AAA; padding:0 10px;}
+.foot p{padding-top:10px;}
+
+/*黄金期货*/
+.gchannel {background: #4773ff!important;}
+.gchannel .nav_list ul li a.cur,.gchannel .nav_list ul li a:hover{background: #5685DF;color:#c3e1ff;}
+.main{margin-bottom:60px; position:relative;}

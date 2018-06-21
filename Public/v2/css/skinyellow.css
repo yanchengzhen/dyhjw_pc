@@ -1,0 +1,32 @@
+/*换肤盒子中的展示背景色*/
+.head_skin_box .nav {
+    background: url(../images/global/nav_bg_yellow.png);
+    background-size: cover;
+}
+/*导航颜色*/
+.head_box .nav_bg {
+    background: url("../images/global/nav_bg_yellow.png");
+    background-size: cover;
+}
+/*导航弹出块样式*/
+.main_tab_active .main_tab_active_line {
+    border-bottom: 1px dotted #efa130;
+}
+.main_tab_active .main_tab_active_line:hover {
+    background: #efa130;
+    color: #fff;
+}
+.main_tab_active_triangle {
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    bottom: 8px;
+    right: 4px;
+    border-top: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-bottom: 6px solid transparent;
+    border-left: 6px solid #efa130;
+}
+.main_tab_active .main_tab_active_line:hover .main_tab_active_triangle {
+    border-left: 6px solid #fff;
+}

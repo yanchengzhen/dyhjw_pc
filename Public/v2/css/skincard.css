@@ -1,0 +1,6 @@
+/*换肤盒子中的展示背景色*/
+.head_skin_box .nav{
+    background: url(../images/global/nav_bg_card.png);
+    background-size: cover;
+}
+.head_box .nav_bg{background: url("../images/global/nav_bg_card.png");background-size: cover;}

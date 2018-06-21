@@ -1,0 +1,109 @@
+/*价格行情走势图*/
+.gchart {
+  width: 100%;
+  overflow: hidden;
+  margin-bottom: 38px;
+}
+
+.gchart_title {
+  width: 100%;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.gchart_bk {
+  float: left;
+  display: block;
+  padding-left: 30px;
+  height: 23px;
+  line-height: 23px;
+  font-weight: bold;
+  font-size: 18px;
+  color: #4a4a4a;
+  background: url(../images/index/zhjzs.png) no-repeat left center;
+}
+.gchart_title h1, .gchart_title h2 {
+  font-weight: bold
+}
+
+.gchart_table {
+  display: block;
+  border-collapse: collapse;
+}
+
+.gchart_table tr th {
+  border-top: 1px solid #dbebfd;
+  border-left: 1px solid #fff;
+  background: #e4ecf2;
+  font-size: 14px;
+  color: #333;
+  line-height: 40px;
+  text-align: center;
+}
+
+.gchart_table tr th:first-child {
+  border-left: 1px solid #dbebfd;
+}
+
+.gchart_table tr td {
+  font-size: 12px;
+  color: #888;
+  line-height: 40px;
+  text-align: center;
+  border: 1px solid #dbebfd;
+  border-collapse: collapse;
+}
+
+.gchart_table tr td a {
+  padding-left: 15px;
+  font-size: 12px;
+  color: #888;
+  line-height: 40px;
+  text-align: center;
+}
+
+.gchart_table tr td a:hover {
+  color: #4a82d8;
+}
+
+.table_downa {
+  background: url(../images/llg_down.png) no-repeat left center;
+}
+
+.table_upa {
+  background: url(../images/llg_table.png) no-repeat left center;
+}
+
+.gchart_bk1 {
+  float: left;
+  display: block;
+  padding-left: 18px;
+  height: 23px;
+  line-height: 23px;
+  font-weight: bold;
+  font-size: 18px;
+  color: #4a4a4a;
+  background: url("../images/ldj/index/icon_left_yellow.png") no-repeat 0;
+}
+
+.gchart_show {
+  border: 1px solid #eee;
+}
+
+.tr_gchart {
+  display: none;
+}
+
+.llg_gchart {
+  width: 580px;
+  height: 400px;
+  float: left;
+}
+
+.red {
+  color: #f04343 !important;
+}
+
+.green {
+  color: #07a168 !important;
+}
